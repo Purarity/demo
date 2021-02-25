@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id": "b2857729-cc37-4995-bbcf-4b3d004dcdb3",
+  "trackingNumber": "UX311385971SE",
+  "documents": [
+    {
+      "content": "..",
+      "filename": "197347851",
+      "extension": "pdf"
+    },
+    {
+      "content": "..",
+      "filename": "197347852",
+      "extension": "pdf"
+    },
+    {
+      "content": "..",
+      "filename": "197347853",
+      "extension": "pdf"
+    },
+    {
+      "content": "[{\"href\":\"https:\/\/api.unifaun.com\/rs-extapi\/v1\/shipments\/12603716\",\"id\":\"12603716\",\"status\":\"PRINTED\",\"shipmentNo\":null,\"orderNo\":\"b2857729-cc37-4995-bbcf-4b3d004dcdb3\",\"route\":null,\"routingCode\":null,\"reference\":\"bfd7ad0d-e194-4247-beca-378655867e30\",\"serviceId\":\"BREVPOSTINT\",\"parcelCount\":1,\"sndName\":\"Gents AB\",\"sndZipcode\":\"25468\",\"sndCity\":\"HELSINGBORG\",\"sndCountry\":\"SE\",\"sndQuickId\":\"1\",\"rcvName\":\"Kristofer Karlsson\",\"rcvZipcode\":\"CF51PN\",\"rcvCity\":\"CARDIFF\",\"rcvCountry\":\"GB\",\"rcvQuickId\":null,\"created\":\"2021-02-25T15:38:29.382+0000\",\"changed\":\"2021-02-25T15:38:29.382+0000\",\"shipDate\":\"2021-02-25T15:38:29.379+0000\",\"returnShipment\":false,\"normalShipment\":true,\"consolidated\":false,\"deliveryCode\":null,\"profileGroup\":\"Grundprofilgrupp\",\"parcels\":[{\"parcelNo\":\"UX311385971SE\",\"returnParcelNo\":null,\"reference\":null,\"partOrderNo\":null}],\"pdfs\":[{\"href\":\"https:\/\/api.unifaun.com\/rs-extapi\/v1\/shipments\/12603716\/pdfs\/197347851\",\"id\":\"197347851\",\"description\":\"Label\",\"pdf\":null,\"media\":\"thermo-250\"},{\"href\":\"https:\/\/api.unifaun.com\/rs-extapi\/v1\/shipments\/12603716\/pdfs\/197347852\",\"id\":\"197347852\",\"description\":\"CustomsDoc\",\"pdf\":null,\"media\":\"laser-a4\"},{\"href\":\"https:\/\/api.unifaun.com\/rs-extapi\/v1\/shipments\/12603716\/pdfs\/197347853\",\"id\":\"197347853\",\"description\":\"CustomsDoc\",\"pdf\":null,\"media\":\"laser-a4\"}],\"previousPdfs\":null,\"prints\":[],\"previousPrints\":null,\"addons\":[]}]",
+      "filename": "meta",
+      "extension": "json"
+    }
+  ]
 }
