@@ -2,27 +2,27 @@
   "users": [
     {
       "name_first": "Danny",
-      "name_first": "Bui",
+      "name_last": "Bui",
       "id": "r576yug"
     },
     {
       "name_first": "Elias",
-      "name_first": "Lidén",
+      "name_last": "Lidén",
       "id": "5e7"
     },
     {
       "name_first": "Mattias",
-      "name_first": "Bergqvist",
+      "name_last": "Bergqvist",
       "id": "6t87"
     },
     {
       "name_first": "Marianne",
-      "name_first": "Pedersen",
+      "name_last": "Pedersen",
       "id": "76rt"
     },
     {
       "name_first": "Philip",
-      "name_first": "Moteus",
+      "name_last": "Moteus",
       "id": "r76t"
     }
   ]
