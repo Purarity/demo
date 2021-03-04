@@ -3,27 +3,32 @@
     {
       "name_first": "Danny",
       "name_last": "Bui",
-      "id": "r576yug"
+      "id": "r576yug",
+      "avatar": "https://i.pravatar.cc/100",
     },
     {
       "name_first": "Elias",
       "name_last": "Lidén",
-      "id": "5e7"
+      "id": "5e7",
+      "avatar": "https://i.pravatar.cc/100",
     },
     {
       "name_first": "Mattias",
       "name_last": "Bergqvist",
-      "id": "6t87"
+      "id": "6t87",
+      "avatar": "https://i.pravatar.cc/100",
     },
     {
       "name_first": "Marianne",
       "name_last": "Pedersen",
-      "id": "76rt"
+      "id": "76rt",
+      "avatar": "https://i.pravatar.cc/100",
     },
     {
       "name_first": "Philip",
       "name_last": "Moteus",
-      "id": "r76t"
+      "id": "r76t",
+      "avatar": "https://i.pravatar.cc/100",
     }
   ]
 }
