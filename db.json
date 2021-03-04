@@ -1,29 +1,29 @@
 {
-   "users":[
-      {
-         "name":"Danny",
-         "permission":"admin",
-         "id":"r576yug"
-      },
-      {
-         "name":"Erik",
-         "permission":"normal",
-         "id":"5e7"
-      },
-      {
-         "name":"Adam",
-         "permission":"normal",
-         "id":"6t87"
-      },
-      {
-         "name":"Emma",
-         "permission":"normal",
-         "id":"76rt"
-      },
-      {
-         "name":"Lang",
-         "permission":"normal",
-         "id":"r76t"
-      }
-   ]
+  "users": [
+    {
+      "name_first": "Danny",
+      "name_first": "Bui",
+      "id": "r576yug"
+    },
+    {
+      "name_first": "Elias",
+      "name_first": "Lidén",
+      "id": "5e7"
+    },
+    {
+      "name_first": "Mattias",
+      "name_first": "Bergqvist",
+      "id": "6t87"
+    },
+    {
+      "name_first": "Marianne",
+      "name_first": "Pedersen",
+      "id": "76rt"
+    },
+    {
+      "name_first": "Philip",
+      "name_first": "Moteus",
+      "id": "r76t"
+    }
+  ]
 }
