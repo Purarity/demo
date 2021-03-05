@@ -1,34 +1,44 @@
 {
-   "users":[
-      {
-         "first":"Danny",
-         "last":"Bui",
-         "id":"r576yug",
-         "avatar":"https://i.pravatar.cc/100"
+  "users": [
+    {
+      "name": {
+        "first": "Danny",
+        "last": "Bui"
       },
-      {
-         "first":"Elias",
-         "last":"Lidén",
-         "id":"5e7",
-         "avatar":"https://i.pravatar.cc/100"
+      "id": "r576yug",
+      "avatar": "https://i.pravatar.cc/100"
+    },
+    {
+      "name": {
+        "first": "Elias",
+        "last": "Lidén"
       },
-      {
-         "first":"Mattias",
-         "last":"Bergqvist",
-         "id":"6t87",
-         "avatar":"https://i.pravatar.cc/100"
+      "id": "5e7",
+      "avatar": "https://i.pravatar.cc/100"
+    },
+    {
+      "name": {
+        "first": "Mattias",
+        "last": "Bergqvist"
       },
-      {
-         "first":"Marianne",
-         "last":"Pedersen",
-         "id":"76rt",
-         "avatar":"https://i.pravatar.cc/100"
+      "id": "6t87",
+      "avatar": "https://i.pravatar.cc/100"
+    },
+    {
+      "name": {
+        "first": "Marianne",
+        "last": "Pedersen"
       },
-      {
-         "first":"Philip",
-         "last":"Moteus",
-         "id":"r76t",
-         "avatar":""
-      }
-   ]
+      "id": "76rt",
+      "avatar": "https://i.pravatar.cc/100"
+    },
+    {
+      "name": {
+        "first": "Philip",
+        "last": "Moteus"
+      },
+      "id": "r76t",
+      "avatar": ""
+    }
+  ]
 }
