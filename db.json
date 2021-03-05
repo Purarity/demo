@@ -1,32 +1,32 @@
 {
    "users":[
       {
-         "name_first":"Danny",
-         "name_last":"Bui",
+         "first":"Danny",
+         "last":"Bui",
          "id":"r576yug",
          "avatar":"https://i.pravatar.cc/100"
       },
       {
-         "name_first":"Elias",
-         "name_last":"Lidén",
+         "first":"Elias",
+         "last":"Lidén",
          "id":"5e7",
          "avatar":"https://i.pravatar.cc/100"
       },
       {
-         "name_first":"Mattias",
-         "name_last":"Bergqvist",
+         "first":"Mattias",
+         "last":"Bergqvist",
          "id":"6t87",
          "avatar":"https://i.pravatar.cc/100"
       },
       {
-         "name_first":"Marianne",
-         "name_last":"Pedersen",
+         "first":"Marianne",
+         "last":"Pedersen",
          "id":"76rt",
          "avatar":"https://i.pravatar.cc/100"
       },
       {
-         "name_first":"Philip",
-         "name_last":"Moteus",
+         "first":"Philip",
+         "last":"Moteus",
          "id":"r76t",
          "avatar":""
       }
